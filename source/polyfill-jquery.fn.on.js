@@ -51,10 +51,6 @@
 			}
 		};
 
-		if ( window.console && window.console.info ) {
-			window.console.info( 'Lúcida: The Polyfill to jQuery.fn.on was loaded!' );
-		}
-
 		$.fn[plugin.name] = plugin.code;
 	}
 

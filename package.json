@@ -1,11 +1,11 @@
 {
   "name": "polyfill-jquery.fn.on",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Polyfill to jQuery.fn.on was loaded!",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ortense/jquery.touchOrMouse.git"
+    "url": "https://github.com/lucida-brasil/polyfill-jquery.fn.on.git"
   },
   "keywords": [
     "jQuery",
